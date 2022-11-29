@@ -31,8 +31,7 @@ p {
 
 nav {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin: 40px auto;
+  margin: 40px;
 }
 
 nav .links {
