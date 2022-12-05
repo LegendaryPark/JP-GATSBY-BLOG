@@ -14,8 +14,8 @@ body {
 body {
   background: radial-gradient(
     at top left,
-    rgba(146, 43, 225, 1) 0%,
-    rgba(43, 9, 107, 1) 100%
+    rgba(0, 190, 0, 1) 0%,
+    rgba(0, 80, 0, 1) 100%
   );
   background-repeat: no-repeat;
 }
@@ -30,7 +30,7 @@ p {
 }
 
 nav {
-  display: grid;
+  text-align: center;
   margin: 40px;
 }
 
